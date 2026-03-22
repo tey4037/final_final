@@ -1,5 +1,5 @@
-M01,Avatar,50.0,500.0,Rented
-M02,Titanic,40.0,400.0,Available
+M01,Avatar,50.0,500.0,Available
+M02,Titanic,40.0,400.0,Sold
 M03,Inception,60.0,600.0,Sold
 M04,The Matrix,50.0,450.0,Rented
 M05,Interstellar,55.0,550.0,Available
